@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"Please enter your ID number and password"

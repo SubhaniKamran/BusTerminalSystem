@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"Welcome To skyways terminal"
